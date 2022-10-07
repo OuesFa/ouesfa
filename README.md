@@ -6,7 +6,7 @@
 
 
 <a href="https://www.linkedin.com/in/fares-oueslati-6187b57b/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouesfa&hide=ruby,jupyter-notebook,jupyter,notebook" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouesfa&hide=html,ruby,jupyter%20notebook" />
 </a>
 
 <!--
