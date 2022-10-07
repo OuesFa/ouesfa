@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/fares-oueslati-6187b57b/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dims&show_icons=true" />
+</a>
+<a href="https://www.linkedin.com/in/fares-oueslati-6187b57b/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dims&hide=html,ruby" />
+</a>
+
 <!--
 **OuesFa/ouesfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
