@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/fares-oueslati-6187b57b/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ouesfa&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ouesfa&show_icons=true&hide=starts" />
 </a>
 
 
